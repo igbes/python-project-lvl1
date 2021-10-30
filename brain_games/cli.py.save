@@ -1,0 +1,4 @@
+#!/usr/bin/env pyt
+
+def welcome_user():
+    pass
